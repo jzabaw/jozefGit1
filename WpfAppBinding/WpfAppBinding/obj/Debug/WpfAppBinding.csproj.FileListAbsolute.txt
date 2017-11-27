@@ -1,0 +1,14 @@
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\bin\Debug\WpfAppBinding.exe.config
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\bin\Debug\WpfAppBinding.exe
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\bin\Debug\WpfAppBinding.pdb
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\WpfAppBinding.csprojResolveAssemblyReference.cache
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\MainWindow.g.cs
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\App.g.cs
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\WpfAppBinding_MarkupCompile.cache
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\WpfAppBinding_MarkupCompile.lref
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\MainWindow.baml
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\WpfAppBinding.g.resources
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\WpfAppBinding.Properties.Resources.resources
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\WpfAppBinding.csproj.GenerateResource.Cache
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\WpfAppBinding.exe
+c:\users\jz\documents\visual studio 2017\Projects\WpfAppBinding\WpfAppBinding\obj\Debug\WpfAppBinding.pdb
