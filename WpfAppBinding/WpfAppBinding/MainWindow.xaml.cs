@@ -38,6 +38,8 @@ namespace WpfAppBinding
             m_oPersonList.Add(new Person(2,"Jan","Kowalski",44));
             m_oPersonList.Add(new Person(3, "Józef", "Koza", 46));
             m_oPersonList.Add(new Person(4, "Leon", "Iksiński", 22));
+            m_oPersonList.Add(new Person(5, "Leonika", "Iksińska", 21));
+
             FirstPersons.ItemsSource = m_oPersonList;
 
         }
